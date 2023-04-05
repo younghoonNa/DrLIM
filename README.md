@@ -23,4 +23,5 @@ Implemention of Dimensionality reduction by learning an invariant mapping in CVP
 
 ### Result.
 
-![result](https://user-images.githubusercontent.com/38518648/228127577-89c8d999-9902-4ccf-a45d-531d44dbfdeb.png)
+![result](https://user-images.githubusercontent.com/38518648/229955636-ee68c3bf-4626-4e22-88e4-ef13a15aea87.png)
+
